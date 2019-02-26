@@ -1,2 +1,17 @@
 # Downstream-Effects-of-Upstream-Causes
-Downstream Effects of Upstream Causes, by Bradley C. Saul, Michael G. Hudgens &amp; Michael A. Mallin
+
+# Author Contributions Checklist Form
+
+## Data
+
+### Abstract 
+
+### Availability 
+
+## Code
+
+### Abstract
+
+### Description 
+
+### Reproducibility 
